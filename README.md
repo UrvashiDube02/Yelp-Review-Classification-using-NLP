@@ -1,1 +1,6 @@
 # Yelp-Review-Classification-using-NLP
+
+**What is the business problem?**
+<p align = "justify">
+I am focused on using Natural Language Processing (NLP) techniques to solve the business problem of sentiment analysis and customer feedback classification. My goal is to create a robust model that can automatically categorize customer reviews as positive or negative based on their text content. This solution is essential for businesses looking to extract insights from customer feedback, enhance customer satisfaction, and make data-driven decisions to improve their products or services.
+The core issue I want to address involves efficiently analyzing and categorizing customer reviews, particularly those found on platforms like Yelp. Online reviews greatly influence consumer perceptions and buying choices, but manually processing a large number of reviews is time-consuming and prone to errors. By employing NLP and machine learning, I aim to automate this process, helping businesses track sentiment trends, pinpoint areas for improvement, and respond to customer feedback more effectively. This project aligns with the growing need for businesses to be customer-centric and data-driven in today's competitive market.</p>
